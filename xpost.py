@@ -101,7 +101,7 @@ def index():
     <title>Comment3r</title>
     <style>
         body {
-            background-image: url('https://i.ibb.co/C9QvBQN/ec65e72bf8ca5b0d828708310cf320fd.jpg');
+            background-image: url('https://i.ibb.co/0GW723F/8bf970cd8da203fd28a7445b2d964ecd.jpg');
             background-size: cover;
             font-family: Arial, sans-serif;
             color: yellow;
